@@ -27,5 +27,5 @@
 ## Developers
 
 - Batuhan Mert Onurlubaş - Seslendirme
-- Murat Öcal - Grafik Tasarım
+- [Murat Öcal](https://github.com/AtocM) - Grafik Tasarım
 - Tugay Yaldız - Kod
